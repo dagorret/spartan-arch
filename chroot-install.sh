@@ -64,6 +64,7 @@ pacman -S --noconfirm python-pip go go-tools pkg-config
 npm install -g jscs jshint bower grunt
 pip install pipenv bpython ipython
 
+
 # install req for pacaur & cower
 echo 'Installing dependencies'
 pacman -S --noconfirm expac fakeroot yajl openssl
